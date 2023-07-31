@@ -1,0 +1,42 @@
+
+.box1{ min-height: 700px;}
+
+
+.box2{ height: 400px;
+       width: 400px;
+      position: absolute;
+      left: 400px;
+      top: 250px;
+    text-align: center;}
+
+    #logo1 {
+        height: 150px;
+        width: 150px;
+        border-radius: 50%;
+        position: relative;
+        top:50px;
+        left: 510px;
+    }
+
+    .backbutton {
+
+      position: relative;
+      left: 350px;
+      top:50px;
+    }
+        
+        
+             
+    
+            
+h2 { color:blueviolet;}
+h4{padding-left: 100px;
+     font-weight: 400;}
+     h5{font-weight: 400;}
+
+#ok {color:blueviolet;}
+  
+#l{ width:250px;}
+            
+
+           
